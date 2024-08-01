@@ -1,6 +1,6 @@
 # frontend-template
 
-A frontend template project build with Vite
+A frontend template project built with Vite
 
 
 ### Run the development server:
