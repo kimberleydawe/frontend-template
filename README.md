@@ -1,6 +1,6 @@
 # frontend-template
 
-A frontend template project built with Vite
+A frontend template project built with Vite + SCSS
 
 
 ### Run the development server:
@@ -8,7 +8,7 @@ Start the development server with:
 
 ```npm run dev```
 
-This will start a local server at http://localhost:3000 (or another available port), and you can view your site in the browser. Vite provides hot module replacement (HMR) out of the box, so any changes you make will be immediately reflected in the browser.
+This will start a local server on an available port, and you can view your site in the browser. Vite provides hot module replacement (HMR) out of the box, so any changes you make will be immediately reflected in the browser.
 
 ### Build for production:
 When you're ready to deploy your project, you can build it for production with:
